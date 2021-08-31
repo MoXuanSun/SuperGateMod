@@ -1,0 +1,5 @@
+itemGroup.super_gate_table=超级星门
+
+tile.super_gate_core.name=超级星门核心
+tile.super_gate_ring.name=超级星门环
+item.super_gate_controller.name=超级星门控制器

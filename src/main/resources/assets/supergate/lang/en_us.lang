@@ -1,0 +1,5 @@
+itemGroup.super_gate_table=SuperGate
+
+tile.super_gate_core.name=SuperGateCore
+tile.super_gate_ring.name=SuperGateRing
+item.super_gate_controller.name=SuperGateController

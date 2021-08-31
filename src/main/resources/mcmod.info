@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "supergate",
+    "name": "Ori's SuperGates",
+    "description": "no description for now",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["GongSun_ink"],
+    "credits": "The Forge and FML guys, for making this example",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
